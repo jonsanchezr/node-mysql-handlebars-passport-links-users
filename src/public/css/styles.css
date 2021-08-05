@@ -1,0 +1,9 @@
+body {
+    background: #f5f6f5;
+    overflow: hidden;
+}
+
+.index {
+    width: 100vw;
+    height: 100vw;
+}
